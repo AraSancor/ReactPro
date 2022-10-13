@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #111129;
+}
+
+.App {
+  align-items: center;
+  justify-content: center;
+  padding-top: 1%;
+  font-family: sans-serif;
+  margin: 3%;
+}
+
+.free-logo-cont {
+   display: flex;
+  justify-content: center;
+ 
+
+}
+
+.free-logo {
+  height: 11vw;
+  margin: 1%;
+  
+
+}
+
+.cont-principal {
+  height: 40vw;
+  min-width: 40vw;
+  align-items: center;
+}
