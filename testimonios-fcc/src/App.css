@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+html, body {
+  font-size: 1.2vw;
+  background-color: #f5f6f7;
+}
+h1{
+  max-width: 94vw;
+  font-size: 2.5em;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  line-height: 1;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.App{
+  min-height: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  align-items:center ;
+  justify-content: center;
+  text-align: center;
+}
+
+.contenedor-principal{
+
+  min-height: 10vw;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
