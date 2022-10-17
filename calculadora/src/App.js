@@ -15,7 +15,12 @@ const agregarInput = val => {
 };
 
  const calcularResultado = () => {
+  if (input){
   setInput(evaluate(input));
+  }
+  else{
+    alert("Por favor ingrese los datos");
+  }
  };
 
 
