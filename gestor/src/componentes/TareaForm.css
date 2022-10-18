@@ -18,6 +18,8 @@ justify-content: center;
 padding: 16px;
 font-size: 16px;
 cursor: pointer;
+border: none;
+outline: none;
 background-color: #00471b;
 color: azure;
 text-transform: capitalize;
