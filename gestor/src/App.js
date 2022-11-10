@@ -1,7 +1,8 @@
 
 import './App.css';
 import Logo from './img/fcc.png';
-import TareaFormulario from './componentes/TareaFormularo';
+import ListaDeTareas from './componentes/ListaDeTareas';
+ 
 
 function App() {
   return (
@@ -13,8 +14,8 @@ src={Logo} className='logo' />
       </div>
    
    <div className='tareas-lista-principal'>
-<h1>Mis deberes</h1>
-<TareaFormulario/>
+<h1>Mis tareas</h1>
+<ListaDeTareas />
    </div>
     </div>
   );
