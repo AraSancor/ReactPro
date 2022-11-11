@@ -1,4 +1,4 @@
-.tarea-lista-cotenedor{
+.tareas-lista-cotenedor{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
