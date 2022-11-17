@@ -31,10 +31,11 @@ props.onSubmit(tareaNueva);
         type='text'
         placeholder='Escribe un deber'
         name='texto'
-        onChange={manejarCambio}
-      />
+        onChange={manejarCambio}  />
+        <button className='tarea-boton'>Agregar </button>
+     
 
-      <button className='tarea-boton'>Agregar tarea</button>
+     
 
     </from>
   );

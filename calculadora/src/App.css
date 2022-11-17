@@ -11,22 +11,21 @@
 }
 .fcc-logo-cont{
   width: 100%;
-  height: 50px;
-  margin: 8px;
+  height: 5vw;
+  margin: 1%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .fcc-logo{
-  height: 40px;
+  height: 5vw;
 }
 .cont-calc{
-  width: 200px;
-
+  width: 22vw;
   padding: 14px;
   background-color: #99c9ff;
-  border-radius:  20px;
-  border: 5px solid white;
+  border-radius:  10px;
+  border: 3px solid white;
 }
 .fila{
 margin: 4px;
